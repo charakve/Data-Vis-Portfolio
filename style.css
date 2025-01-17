@@ -1,6 +1,6 @@
 body {
-    background-color: #f8f9fa; /* Light grey background */
-    color: #212529; /* Dark text */
+    background-color: #f8f9fa; 
+    color: #212529; 
 }
 .navbar {
     background-color: #343a40; /* Dark grey navbar */
@@ -9,7 +9,7 @@ body {
     color: #ffffff !important; /* White text for navbar */
 }
 .btn-custom {
-    background-color: #007bff; /* Primary blue buttons */
+    background-color: #007bff; 
     color: #ffffff;
 }
 .btn-custom:hover {
@@ -22,17 +22,17 @@ p {
     color: #6c757d; /* Muted grey for paragraphs */
 }
 .card {
-    border: 1px solid #dee2e6; /* Light grey border */
-    background-color: #ffffff; /* White card background */
+    border: 1px solid #dee2e6; 
+    background-color: #ffffff; 
 }
 .card-title {
-    color: #007bff; /* Blue for card titles */
+    color: #007bff; 
 }
 .card-text {
     color: #6c757d; /* Muted grey for card descriptions */
 }
 a {
-    color: #007bff; /* Blue links */
+    color: #007bff; 
 }
 a:hover {
     color: #0056b3; /* Darker blue on hover */
